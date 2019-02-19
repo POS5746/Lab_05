@@ -10,7 +10,7 @@ https://cran.r-project.org/web/packages/sjPlot/vignettes/plot_interactions.html
 - From one of the Godfathers of interaction terms himself:
 http://mattgolder.com/interactions
 
-- Very detailed and more rigorous explanation of interactions terms in regression models, along with cool graphics:
+- Very detailed and more rigorous explanation of interaction terms in regression models, along with cool graphics:
 https://cfss.uchicago.edu/persp013_interaction_terms.html
 
 - How to visualize interactions:
